@@ -285,7 +285,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels xgboost lig
 
 Place `historical_data.csv` in the same directory as the notebook.
 
-Open `doordash_delivery_time_prediction_humanized.ipynb` and execute the cells sequentially.
+Open `delivery_time_prediction.ipynb` and execute the cells sequentially.
 
 Some model comparisons, particularly Random Forest and boosting algorithms, may take longer to complete.
 
